@@ -4,6 +4,6 @@ test_patterns = [
   "*.py"
 ]
 
-[[analizers]]
+[[analyzers]]
 name = "python"
 enabled = true
