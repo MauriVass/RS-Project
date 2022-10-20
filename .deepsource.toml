@@ -1,3 +1,5 @@
 version = 1
 
-*.py
+[[analizers]]
+name = "python"
+enabled = true
