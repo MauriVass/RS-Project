@@ -1,0 +1,6 @@
+bus,p_mw,q_mvar,name
+2,1,0.2,load0
+3,1,0.2,load1
+4,1,0.2,load2
+5,1,0.2,load3
+6,1,0.2,load4

@@ -1,0 +1,7 @@
+name,from_bus,to_bus,length_km,std_type
+line 0,1,2,1,NAYY 4x150 SE
+line 1,2,3,1,NAYY 4x150 SE
+line 2,3,4,1,NAYY 4x150 SE
+line 3,4,5,1,NAYY 4x150 SE
+line 4,5,6,1,NAYY 4x150 SE
+line 5,6,1,1,NAYY 4x150 SE
